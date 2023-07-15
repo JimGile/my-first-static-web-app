@@ -113,7 +113,7 @@ export default function HemoglobinOxygenSaturationCurve() {
 							<Col sm={6}>
 								<InputGroup className="mb-1">
 									<Form.Control value={tp} onChange={handleTpChange} />
-									<InputGroup.Text> Â°C </InputGroup.Text>
+									<InputGroup.Text> °C </InputGroup.Text>
 								</InputGroup>
 							</Col>
 						</Form.Group>
